@@ -4,7 +4,9 @@
 Command Line Arguments
 ----------------------
 
+--------------------------
 Example:  ./word-count -b -sort SelectionSort -suf < textfile
+--------------------------
 
 -b | -a | -s
   (required) Specifies the type of tree for storing (word, count) pair
@@ -324,3 +326,16 @@ These details _will_ remain **hidden** until expanded.
 | -------- | -------- |
 | cell 1   | cell 2   |
 | cell 3   | cell 4   |
+
+
+
+```
+gem install github-markup
+function () {
+	console.log('Md. Al-Amin');
+}
+
+```
+
+
+
