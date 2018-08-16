@@ -314,20 +314,12 @@ Leverage this by adding a table of contents to your README with links to the hea
 
 
 <details>
--	[<summary>Click me to collapse/fold.</summary>](#)
-
-These details _will_ remain **hidden** until expanded.
-
-    PASTE LOGS HERE
-
-</details>
+[<summary>Click me to collapse/fold.</summary>
 
 | header 1 | header 2 |
 | -------- | -------- |
 | cell 1   | cell 2   |
 | cell 3   | cell 4   |
-
-
 
 ```
 gem install github-markup
@@ -336,6 +328,10 @@ function () {
 }
 
 ```
+
+</details>
+
+
 
 
 
