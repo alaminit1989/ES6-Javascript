@@ -300,3 +300,14 @@ Contributing
 See [Contributing](CONTRIBUTING.md).
 
 
+### Table of Contents
+
+- [Cucumber](#cucumber)
+
+Anytime you add a header to a markdown file, Github attaches an href with its downcased, punctuation-stripped name. ‘JavaScript’ receives a link to #javascript, for instance.
+
+Spaces become dashes, so ‘Command Line’ becomes #command-line.
+
+Leverage this by adding a table of contents to your README with links to the headers further down the document:
+
+
