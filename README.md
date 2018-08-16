@@ -311,3 +311,11 @@ Spaces become dashes, so ‘Command Line’ becomes #command-line.
 Leverage this by adding a table of contents to your README with links to the headers further down the document:
 
 
+<details>
+<summary>Click me to collapse/fold.</summary>
+
+These details _will_ remain **hidden** until expanded.
+
+    PASTE LOGS HERE
+
+</details>
