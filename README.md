@@ -312,7 +312,7 @@ Leverage this by adding a table of contents to your README with links to the hea
 
 
 <details>
-<summary>Click me to collapse/fold.</summary>
+<summary>[Click me to collapse/fold.](#)</summary>
 
 These details _will_ remain **hidden** until expanded.
 
