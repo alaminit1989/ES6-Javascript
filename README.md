@@ -319,3 +319,8 @@ These details _will_ remain **hidden** until expanded.
     PASTE LOGS HERE
 
 </details>
+
+| header 1 | header 2 |
+| -------- | -------- |
+| cell 1   | cell 2   |
+| cell 3   | cell 4   |
