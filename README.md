@@ -24,31 +24,30 @@ ES6 is a significant update to the language, and the first update to the languag
 7.	let + const
 8.	iterators + for..of
 9.	generators
-unicode
-modules
-module loaders
-map + set + weakmap + weakset
-proxies
-symbols
-subclassable built-ins
-promises
-math + number + string + array + object APIs
-binary and octal literals
-reflect api
-tail calls
+10.	unicode
+11.	modules
+12.	module loaders
+13.	map + set + weakmap + weakset
+14.	proxies
+15.	symbols
+16.	subclassable built-ins
+17.	promises
+18.	math + number + string + array + object APIs
+19.	binary and octal literals
+19.	reflect api
+20.	tail calls
 
-Here's the list of the top 10 best ES6 features for a busy software engineer (in no particular order):
-Default Parameters in ES6
-Template Literals in ES6
-Multi-line Strings in ES6
-Destructuring Assignment in ES6
-Enhanced Object Literals in ES6
-Arrow Functions in ES6
-Promises in ES6
-Block-Scoped Constructs Let and Const
-Classes in ES6
-Modules in ES6
-
+**Here's the list of the top 10 best ES6 features for a busy software engineer (in no particular order):**
+1.	**Default Parameters in ES6**
+2.	**Template Literals in ES6**
+3.	**Multi-line Strings in ES6**
+4.	**Destructuring Assignment in ES6**
+5.	**Enhanced Object Literals in ES6**
+6.	**Arrow Functions in ES6**
+7.	**Promises in ES6**
+8.	**Block-Scoped Constructs Let and Const**
+9.	**Classes in ES6**
+10.	**Modules in ES6**
 
 </details>
 
