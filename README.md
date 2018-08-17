@@ -2,19 +2,22 @@
 
 
 <details>
-<summary style="font:bold">Let vs Const vs Var Keyword</summary>
+<summary>Let vs Const vs Var Keyword</summary>
 
 
 </details>
 
-<pre>
-sample <b>sample</b> sample
-</pre>
-
-`one`**`two`**`three`
+<details>
+<summary>Template String And Multi Line String</summary>
 
 
-<span style="color: green"> Some green text </span>
+</details>
+
+<details>
+<summary>Arrow Function</summary>
+
+
+</details>
 
 
 
