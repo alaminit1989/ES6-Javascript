@@ -15,7 +15,7 @@ ES6 is a significant update to the language, and the first update to the languag
 See the ES6 standard for full specification of the ECMAScript 6 language.
 
 *	ES6 includes the following new features:
-+	arrows
+-	arrows
 +	classes
 +	enhanced object literals
 template strings
