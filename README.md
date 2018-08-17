@@ -12,14 +12,12 @@
 <pre>
 ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now.
 
-See the ES6 standard for full specification of the ECMAScript 6 language.
+**See the ES6 standard for full specification of the ECMAScript 6 language.**
 
-<span>
-*	ES6 includes the following new features:
--	arrows
-+	classes
-+	enhanced object literals
-</span>
+**ES6 includes the following new features:**
+1. arrows
+2. classes
+3. enhanced object literals
 template strings
 destructuring
 default + rest + spread
