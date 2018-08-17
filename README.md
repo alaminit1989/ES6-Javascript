@@ -2,7 +2,7 @@
 
 
 <details>
-**<summary>Let vs Const vs Var Keyword</summary>**
+<summary><span style="bold">Let vs Const vs Var Keyword</span></summary>
 
 
 </details>
