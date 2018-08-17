@@ -1,11 +1,3 @@
-details > summary {
-  padding: 2px 6px;
-  width: 15em;
-  background-color: #ddd;
-  border: none;
-  box-shadow: 3px 3px 4px black;
-}
-
 >	# ES6-Javascript
 
 
@@ -22,7 +14,7 @@ sample <b>sample</b> sample
 `one`**`two`**`three`
 
 
-
+<span style="color: green"> Some green text </span>
 
 
 
