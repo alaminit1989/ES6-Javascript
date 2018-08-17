@@ -2,6 +2,24 @@
 
 
 <details>
+<summary><b>What is ES6, ES7, ES8, ES2015, ES2016, ES2017, ESNext (Click Here) </b></summary>
+`sdfsd sfds sdfs sfsd sdfsdf sdfsdf sdfsd fsdfsdf`
+
+</details>
+
+<details>
+<summary><b>Setup Working Environment with Babel and Webpack (Click Here) </b></summary>
+
+
+</details>
+
+<details>
+<summary><b>Setup Webpack Dev Server (Click Here) </b></summary>
+
+
+</details>
+
+<details>
 <summary><b>Let vs Const vs Var Keyword (Click Here) </b></summary>
 
 
@@ -62,7 +80,7 @@
 </details>
 
 <details>
-<summary><b>Promise All You Need to Know (Click Here) </b></summary>
+<summary><b>Promise (Click Here) </b></summary>
 
 
 </details>
