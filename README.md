@@ -1,8 +1,8 @@
 >	# ES6-Javascript
 
 
-<details>
-<pre><summary><b>Let vs Const vs Var Keyword</b><span style="color:blue"> (Click Here)</span></summary></pre>
+<pre><details></pre>
+<summary><b>Let vs Const vs Var Keyword</b><span style="color:blue"> (Click Here)</span></summary>
 
 
 </details>
