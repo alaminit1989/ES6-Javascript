@@ -14,7 +14,7 @@ As currently, not all browsers support ES6, they support pre-versions of ES6. SO
 
 Babel is the one of the most popular javascript transpiler
 
-It allows us to write ES6 code and convert it back in pre-ES6 javascript that browser supports.
+Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in old browsers or environments.
 
 </details>
 
@@ -76,12 +76,24 @@ ES6 is a significant update to the language, and the first update to the languag
 
 </details>
 
-
-
-
-
 <details>
 <summary><b>Setup Working Environment with Babel and Webpack (Click Here) </b></summary>
+
+<pre>
+cd es6-Environment/
+npm init -y
+npm install --save-dev babel-core babel-preset-env
+</pre>
+*	**Create a new file : .babelrc**
+<pre>
+{
+	"presets": [
+			"babel-preset-env"
+	]
+}
+</pre>
+
+
 
 
 </details>
