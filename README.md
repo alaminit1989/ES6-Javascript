@@ -11,9 +11,11 @@
 <summary><b>What are the Features of ES6?  (Click Here) </b></summary>
 ```
 ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now.
-
+```
+```
 See the ES6 standard for full specification of the ECMAScript 6 language.
-
+```
+```
 **ES6 includes the following new features:**
 1. arrows
 2. classes
@@ -36,7 +38,7 @@ math + number + string + array + object APIs
 binary and octal literals
 reflect api
 tail calls
-
+```
 Here's the list of the top 10 best ES6 features for a busy software engineer (in no particular order):
 Default Parameters in ES6
 Template Literals in ES6
@@ -48,7 +50,7 @@ Promises in ES6
 Block-Scoped Constructs Let and Const
 Classes in ES6
 Modules in ES6
-```
+
 
 </details>
 
