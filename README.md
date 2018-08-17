@@ -12,7 +12,7 @@
 
 ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now.
 
-<pre>**See the ES6 standard for full specification of the ECMAScript 6 language.**</pre>
+**See the ES6 standard for full specification of the ECMAScript 6 language.**
 --------------------------------------------------------------------------------------------------------
 
 **ES6 includes the following new features:**
