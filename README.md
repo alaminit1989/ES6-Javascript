@@ -1,20 +1,20 @@
 >	# ES6-Javascript
 
 
-<pre><details></pre>
-<summary><b>Let vs Const vs Var Keyword</b><span style="color:blue"> (Click Here)</span></summary>
+<details>
+<summary><b>Let vs Const vs Var Keyword (Click Here) </b></summary>
 
 
 </details>
 
 <details>
-<summary>Template String And Multi Line String</summary>
+<summary><b>Template String And Multi Line String (Click Here) </b></summary>
 
 
 </details>
 
 <details>
-<summary>Arrow Function</summary>
+<summary><b>Arrow Function (Click Here) </b></summary>
 
 
 </details>
