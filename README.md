@@ -10,6 +10,27 @@ As currently, not all browsers support ES6, they support pre-versions of ES6. SO
 </details>
 
 <details>
+<summary><b>What Is Babel? (Click Here) </b></summary>
+
+Babel is the one of the most popular javascript transpiler
+
+It allows us to write ES6 code and convert it back in pre-ES6 javascript that browser supports.
+
+</details>
+
+<details>
+<summary><b>What Is Webpack? (Click Here) </b></summary>
+
+Webpack allow you to run an environment that hosts babel.
+Webpack is open source javascript module bundler which takes modules with dependencies and generates static assets representing those modules.
+
+**Benefits of using Webpack:**
+It bundles your multiple modules and packs it into a single .js file.
+It comes with integrated dev server. A small express app for local development.You simply include one Javascript tag pointed to the server, like localhost:8080/assets/bundle.js, and get live code updating and asset management for free.
+
+</details>
+
+<details>
 <summary><b>What are the Features of ES6?  (Click Here) </b></summary>
 
 ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now.
