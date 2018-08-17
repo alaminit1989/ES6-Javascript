@@ -25,8 +25,8 @@ Webpack allow you to run an environment that hosts babel.
 Webpack is open source javascript module bundler which takes modules with dependencies and generates static assets representing those modules.
 
 **Benefits of using Webpack:**
-It bundles your multiple modules and packs it into a single .js file.
-It comes with integrated dev server. A small express app for local development.You simply include one Javascript tag pointed to the server, like localhost:8080/assets/bundle.js, and get live code updating and asset management for free.
+1.	It bundles your multiple modules and packs it into a single .js file.
+2.	It comes with integrated dev server. A small express app for local development.You simply include one Javascript tag pointed to the server, like localhost:8080/assets/bundle.js, and get live code updating and asset management for free.
 
 </details>
 
