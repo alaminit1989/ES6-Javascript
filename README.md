@@ -51,6 +51,7 @@ ES6 is a significant update to the language, and the first update to the languag
 8.	**Block-Scoped Constructs Let and Const**
 9.	**Classes in ES6**
 10.	**Modules in ES6**
+-------------------------------
 
 </details>
 
