@@ -2,9 +2,11 @@
 
 
 <details>
-<summary><b>What is ES6, ES7, ES8, ES2015, ES2016, ES2017, ESNext (Click Here) </b></summary>
-<pre>sdfsd sfds sdfs sfsd sdfsdf sdfsdf sdfsd fsdfsdf</pre>
+<summary><b>What is ES6? (Click Here) </b></summary>
+ES6 or ECMAScript 2015 is a 6th major release of ECMAScript language which comes with a lot of new features and syntax for writing web applications in javascript.
 
+As currently, not all browsers support ES6, they support pre-versions of ES6. SO to write web applications in ES6 that will support all Browsers we needed tools like Babel and Webpack.
+---------------------------------
 </details>
 
 <details>
