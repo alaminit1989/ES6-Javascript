@@ -14,10 +14,12 @@ ES6 is a significant update to the language, and the first update to the languag
 
 See the ES6 standard for full specification of the ECMAScript 6 language.
 
+<span>
 *	ES6 includes the following new features:
 -	arrows
 +	classes
 +	enhanced object literals
+</span>
 template strings
 destructuring
 default + rest + spread
